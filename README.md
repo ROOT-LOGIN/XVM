@@ -13,6 +13,10 @@ I release my simple MBR here to help one who want goes more far.
 <br/>---------------------------------------------------------<br/>
 我将我的MBR放在这里，希望能帮到其他人。
 
+<br>
+<br>
++   asm file can compile using nasm.exe.<br>
++   c file can compile using Microsoft VC1.52 compiler.<br/>
 
 =====================================
 
